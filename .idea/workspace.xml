@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a08cfaf-504e-4434-958d-cf4c53f09eeb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mKlhyn8eqhiSqF0AmtkkjTlKMp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tn.iit.storeManagement" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\store-management\src\main\resources" />
+      <recent name="D:\store-management" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StoreManagementApplication">
+    <configuration name="StoreManagementApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tn.iit.storeManagement.StoreManagementApplication" />
+      <module name="store-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tn.iit.storeManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="store-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.iit.storeManagement.StoreManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StoreManagementApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a08cfaf-504e-4434-958d-cf4c53f09eeb" name="Default Changelist" comment="" />
+      <created>1609250286662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609250286662</updated>
+      <workItem from="1609250290470" duration="5761000" />
+      <workItem from="1609791964160" duration="9214000" />
+      <workItem from="1609849289496" duration="4120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609796923180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="448" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1609796923180" />
+    <state x="321" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609805364867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="321" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1609805364867" />
+    <state width="1493" height="349" key="GridCell.Tab.0.bottom" timestamp="1609881594830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="349" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609881594830" />
+    <state width="1493" height="349" key="GridCell.Tab.0.center" timestamp="1609881594830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="349" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609881594830" />
+    <state width="1493" height="349" key="GridCell.Tab.0.left" timestamp="1609881594830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="349" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609881594830" />
+    <state width="1493" height="349" key="GridCell.Tab.0.right" timestamp="1609881594830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="349" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609881594830" />
+    <state x="0" y="73" key="Maven.ArtifactSearchDialog" timestamp="1609795522194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="73" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1609795522194" />
+    <state x="98" y="0" key="SettingsEditor" timestamp="1609881551536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="98" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609881551536" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1609849735223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1609849735223" />
+    <state x="89" y="171" width="590" height="488" key="find.popup" timestamp="1609253121609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="89" y="171" width="590" height="488" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1609253121609" />
+    <state x="511" y="38" key="refactoring.ChangeSignatureDialog" timestamp="1609795581216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="38" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1609795581216" />
+  </component>
+</project>
