@@ -28,7 +28,7 @@ public class Medication implements Serializable {
 
     @NotNull
     @NotEmpty
-    @Size(min = 3)
+    @Size(min = 2)
     private String name;
 
     @NotNull

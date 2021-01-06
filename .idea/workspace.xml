@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a08cfaf-504e-4434-958d-cf4c53f09eeb" name="Default Changelist" comment="" />
+    <list default="true" id="5a08cfaf-504e-4434-958d-cf4c53f09eeb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/errors/ErrorSM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/errors/ExceptionTranslator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/errors/MethodArgumentNotValidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/errors/ResourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/controllers/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/controllers/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/controllers/MedicationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/controllers/MedicationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/models/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/models/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/models/Medication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement/models/Medication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mKlhyn8eqhiSqF0AmtkkjTlKMp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,9 +40,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/tn/iit/storeManagement" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -33,9 +51,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tn.iit.storeManagement.config" />
       <recent name="tn.iit.storeManagement" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\store-management\src\main\java\tn\iit\storeManagement" />
       <recent name="D:\store-management\src\main\resources" />
       <recent name="D:\store-management" />
     </key>
@@ -79,7 +99,7 @@
       <updated>1609250286662</updated>
       <workItem from="1609250290470" duration="5761000" />
       <workItem from="1609791964160" duration="9214000" />
-      <workItem from="1609849289496" duration="4120000" />
+      <workItem from="1609849289496" duration="9955000" />
     </task>
     <servers />
   </component>
@@ -111,10 +131,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="349" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609881594830" />
-    <state x="0" y="73" key="Maven.ArtifactSearchDialog" timestamp="1609795522194">
+    <state x="179" y="81" key="Maven.ArtifactSearchDialog" timestamp="1609945650009">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="73" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1609795522194" />
+    <state x="179" y="81" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1609945650009" />
     <state x="98" y="0" key="SettingsEditor" timestamp="1609881551536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
