@@ -1,0 +1,5 @@
+tn\iit\storeManagement\errors\MethodArgumentNotValidException.class
+tn\iit\storeManagement\errors\ResourceNotFoundException.class
+tn\iit\storeManagement\errors\ExceptionTranslator.class
+tn\iit\storeManagement\errors\ErrorSM.class
+tn\iit\storeManagement\config\SwaggerConfig.class
